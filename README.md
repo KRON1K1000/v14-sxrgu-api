@@ -6,6 +6,7 @@
 SİKTİM ATTIM GAŞUNANI GAŞURUZ GADAŞIM
 # GÖRSELLER
 ![image](https://github.com/user-attachments/assets/02be083f-064a-4371-b153-fc39c71684f0)
+![image](https://github.com/user-attachments/assets/e69ca7d0-b1ae-4fa5-940f-f81501adabcc)
 
 
 ## Langauges I Know:
