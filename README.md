@@ -4,6 +4,10 @@
 [![GitHub KRON1K1000](https://img.shields.io/github/followers/KRON1K1000?label=follow&style=social)](https://github.com/KRON1K1000)&nbsp;
 
 SİKTİM ATTIM GAŞUNANI GAŞURUZ GADAŞIM
+# GÖRSELLER
+![image](https://github.com/user-attachments/assets/02be083f-064a-4371-b153-fc39c71684f0)
+
+
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
